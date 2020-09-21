@@ -7,6 +7,7 @@ The script will fetch the open ports of your target
 Downloading and setting up the tool:
 
 git clone https://github.com/AyushRanjanRout/sandhan.git
+
 cd sandhan
 
 Syntax:
