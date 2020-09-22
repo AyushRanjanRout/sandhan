@@ -49,5 +49,8 @@ for port in range(start_port, end_port+1):
     thread.daemon = True 
     thread.start()
 		
+print ('             +-------------------------------------+           ')
+print ("             |           Scanning finished         |           ")
+print ('             +-------------------------------------+           ')	
 
 
